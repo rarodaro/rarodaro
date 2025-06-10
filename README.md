@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @rarodaro
 - 👀 I’m interested in ...Programming mostly web apps , permutations, mathematics. web services CSHARP, .NET, ASP.NET, solidity, blockchain ,dApps,onchain escrow systems
 - 🌱 I’m currently learning ...Java app development ,CEH  certified ethical hacker
-- 💞️ I’m looking to collaborate on ...security issues in website administrating access
+- 💞️ I’m looking to collaborate on ...security issues in website administrating access, Im into leverage trading compounding effect , lets say you know how to make 10 percent a day, u backtested it, multiply it with 365 or 250 if u trade forex , you have enourmous gains  during the year, right now i want to Apply my ethereum or more exact eth layer 2 polygon coin to the chain , and i could use some collaborators as well, untill now i have suceeded to build sucessfuly the blockchain functional token, with embedded funtions like antiwhale, soon i will escrow it, and before u san say cookie we be having a new banking system ready to provide fair transactions, holders rewards all without rugpulls, and suspicious trading activity . The token is fully charity because we want to help Gaza victims and Ukraine victims to get basic supply of medicines and food! join us ,support us , and here we can provide some threads on x and social networks:
+- https://www.x.com/@BigcoinWorld
+- or contact directly via mail :
 - 📫 How to reach me ...via email dario.brzovic@gmail.com
 
 <!---
